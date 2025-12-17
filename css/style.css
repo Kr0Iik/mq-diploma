@@ -1,12 +1,12 @@
 @font-face {
   font-family: OpenSans;
-  src: url("/fonts/OpenSans-Regular.ttf");
+  src: url("../fonts/OpenSans-Regular.ttf");
   font-weight: normal;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url("/fonts/OpenSans-Bold.ttf");
+  src: url("../fonts/OpenSans-Bold.ttf");
   font-weight: bold;
 }
 
@@ -702,7 +702,7 @@ ul, li {
   color: #939594;
   border: none;
   background-color: #f4f7f6;
-  background-image: url("/svg/form-arrows.svg");
+  background-image: url("./svg/form-arrows.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 20px);
   background-size: 10px;
